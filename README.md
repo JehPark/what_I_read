@@ -7,7 +7,7 @@
 
 ## Operating System
 - Operating System Concepts - Avi Silberschatz (checked)  
-- 유닉스의 탄생 - 브라이언 커니행 (reading)  
+- 유닉스의 탄생 - 브라이언 커니행 (checked)  
 
 ## Hardware
 - Code - 찰스 펫졸드 (reading)  
@@ -15,6 +15,7 @@
 ## Java
 - 객채지향의 사실과 오해 - 조영호 (checked)
 - 자바의 정석 - 남궁성 (reading)  
+- Effective Java - Bloch  (reading)
 
 ## Spring
 - Spring in action - Craig Walls  (reading)
