@@ -10,7 +10,7 @@
 - 유닉스의 탄생 - 브라이언 커니행 (checked)  
 
 ## Hardware
-- Code - 찰스 펫졸드 (reading)  
+- Code - 찰스 펫졸드 (checked)  
 
 ## Java
 - 객채지향의 사실과 오해 - 조영호 (checked)
