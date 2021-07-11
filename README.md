@@ -24,6 +24,7 @@
 - 객채지향의 사실과 오해 - 조영호 (checked)
 - 자바의 정석 - 남궁성 (checked)  
 - Effective Java - Bloch  (reading)
+- Real-World Software Development -리처드 워버턴 (reading)
 
 ## C++
 - 윤성우의 열혈 c++ 프로그래밍 -윤성우 (reading)  
@@ -35,3 +36,7 @@
 
 ## Docker & Kubernetes
 - 시작하세요! 도커/쿠버네티스 (개정판) -용찬호 (reading)
+
+# Soft Skills
+
+- 개발자의 글쓰기 -김철수  
