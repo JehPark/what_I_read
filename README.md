@@ -25,6 +25,7 @@
 - 자바의 정석 - 남궁성 (checked)  
 - Effective Java - Bloch  (reading)
 - Real-World Software Development -리처드 워버턴 (reading)
+- Modern Java in Action -Alan Mycroft (reading)
 
 ## C++
 - 윤성우의 열혈 c++ 프로그래밍 -윤성우 (reading)  
@@ -38,5 +39,7 @@
 - 시작하세요! 도커/쿠버네티스 (개정판) -용찬호 (reading)
 
 # Soft Skills
-
 - 개발자의 글쓰기 -김철수  (reading)
+
+# Database
+- 초보자를 위한 SQL 200제 -유연수(reading)
