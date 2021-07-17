@@ -40,6 +40,8 @@
 
 # Soft Skills
 - 개발자의 글쓰기 -김철수  (reading)
+- Word Power made easy -노먼 루이스
+- English Writing Pattern Dictionary -백선엽
 
 # Database
 - 초보자를 위한 SQL 200제 -유연수(reading)
