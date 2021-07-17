@@ -14,6 +14,7 @@
 
 ## Network
 - Data Communications and Networking - Behrouz A. Forouzan (checked)
+- HTTP 완벽가이드 -데이빗 고울리
 
 ## Hardware
 - Code - 찰스 펫졸드 (checked)  
