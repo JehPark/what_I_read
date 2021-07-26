@@ -26,7 +26,7 @@
 - 자바의 정석 - 남궁성 (checked)  
 - Effective Java - Bloch  (reading)
 - Real-World Software Development -리처드 워버턴 (reading)
-- Modern Java in Action -Alan Mycroft (reading)
+- Modern Java in Action -Alan Mycroft (checked)
 
 ## C++
 - 윤성우의 열혈 c++ 프로그래밍 -윤성우 (reading)  
