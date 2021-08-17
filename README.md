@@ -19,6 +19,10 @@
 ## Hardware
 - Code - 찰스 펫졸드 (checked)  
 
+
+# FRONT_END
+- 코어 자바스크립트 - 정재남 (reading)  
+
 # BACK_END
 
 ## Java
