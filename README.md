@@ -21,6 +21,8 @@
 
 
 # FRONT_END
+
+## JavaScript
 - 코어 자바스크립트 - 정재남 (reading)  
 
 # BACK_END
