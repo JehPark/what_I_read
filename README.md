@@ -11,6 +11,7 @@
 ## Operating System
 - Operating System Concepts - Avi Silberschatz (checked)  
 - 유닉스의 탄생 - 브라이언 커니행 (checked)  
+- 쉽게 배우는 운영체제 - 조성호 (reading)
 
 ## Network
 - Data Communications and Networking - Behrouz A. Forouzan (checked)
@@ -39,6 +40,7 @@
 
 ## Spring
 - Spring in action - Craig Walls  (reading)
+- 자바 ORM 표준 JPA 프로그래밍 - 김영한 (checked)
 
 
 ## Database
